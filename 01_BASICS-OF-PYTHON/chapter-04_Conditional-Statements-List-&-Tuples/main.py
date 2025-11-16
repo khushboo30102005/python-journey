@@ -1,4 +1,4 @@
-""" # Conditional Statements ==>
+# Conditional Statements ==>
 
 marks = 29
 if marks >= 90:
@@ -56,7 +56,7 @@ print(marks)
 
 # reverse
 marks.reverse()
-print(marks) """
+print(marks)
  
 
 #  Tuple in Python ==>  tuples are immutable
