@@ -1,4 +1,4 @@
-""" # 1. 
+ # 1. 
 num = int(input("Enter a number: "))
 if num > 0:
   print('Number is positive.')
@@ -29,7 +29,7 @@ print(movies)
 
 # 4.
 marksTuple = (87, 64,33,95,76)
-print(f"Highest Marks: {max(marksTuple)}\nLowest Marks: {min(marksTuple)}")"""
+print(f"Highest Marks: {max(marksTuple)}\nLowest Marks: {min(marksTuple)}")
 
 # 5. 
 marks = int(input("Enter your marks "))
