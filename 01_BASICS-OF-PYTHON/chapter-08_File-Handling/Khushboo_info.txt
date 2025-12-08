@@ -1,0 +1,6 @@
+Name: Khushboo saini
+Class: MCA 2nd SEM
+GOALS FOR THIS MONTH:
+Complete React and Redux.
+Explore TypeScript.
+Build Snack Game in JavaScript.
